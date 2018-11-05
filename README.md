@@ -6,6 +6,14 @@
 
 ### Usage
 
+#### Installation
+
+```scala
+libraryDependencies += "strictly-pretty" %% "strictly-pretty" % "0.1"
+resolvers += Resolver.bintrayRepo("erdeszt", "strictly-pretty")
+```
+
+#### Combinators 
 ```scala
 import strictlyPretty._
 import strictlyPretty.Combinators._
