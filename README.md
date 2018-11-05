@@ -10,7 +10,7 @@
 
 ```scala
 libraryDependencies += "strictly-pretty" %% "strictly-pretty" % "0.1"
-resolvers += Resolver.bintrayRepo("erdeszt", "strictly-pretty")
+resolvers += Resolver.bintrayRepo("erdeszt", "io.github.erdeszt")
 ```
 
 #### Combinators 
