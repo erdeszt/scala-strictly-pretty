@@ -1,7 +1,5 @@
 package strictlyPretty
 
-import scala.annotation.tailrec
-
 object Pretty {
 
   private object Internals {
