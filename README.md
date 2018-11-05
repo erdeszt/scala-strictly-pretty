@@ -1,5 +1,7 @@
 ## Scala implementation of "Strictly Pretty" by Christian Lindig
 
+[![Build Status](https://travis-ci.org/erdeszt/scala-strictly-pretty.svg?branch=master)](https://travis-ci.org/erdeszt/scala-strictly-pretty)
+
 [Original Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.2200&rep=rep1&type=pdf)
 
 ### Usage
